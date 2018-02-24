@@ -1,0 +1,33 @@
+body {
+	font-family:"Roboto",Helvetica,Arial,sans-serif;
+	padding-top:20px;
+	font-size:13px;
+	cursor:default;
+	text-rendering:optimizeLegibility;
+}
+@media (min-width:768px) {
+	.lead {
+		font-size:20px;
+	}
+}
+h1,.h1 {
+	font-family:"Roboto",Helvetica,Arial,sans-serif;
+}
+.headernya {
+	margin:42px 0 -4px;
+	border: none;
+}
+.raflipedia { text-transform: lowercase; }
+.panel {
+    margin:auto;
+}
+.container {
+    margin:0px;
+padding-right: 0px;
+padding-left: 0px;
+margin-right: auto;
+margin-left: auto;
+padding-bottom: 0px;
+padding-top: 0px;
+width: 500px;
+}
